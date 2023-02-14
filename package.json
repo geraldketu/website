@@ -1,6 +1,5 @@
-{
+{"homepage": "http://geraldketu.github.io/my_web4",
   "name": "my_web4",
-  "homepage": "http://geraldketu.github.io/my_web4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
